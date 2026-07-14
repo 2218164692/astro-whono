@@ -1,37 +1,63 @@
 ---
 ---
+# About.
 
-你好，欢迎来到这里
-
-这是 Whono 主题的 about 页面示例
-
-示例内容覆盖站点介绍、友链列表、常见问题与联系说明，可按实际站点替换。
-
-## 朋友们
-
-:::friend{name="Astro" url="https://astro.build/" avatar="https://cdn.nodeimage.com/i/LAW2Al4JZrPhfTs7ObHbisPLGwWuR6x5.webp"}
-用于构建高性能内容网站的前端框架
+:::note[关于 Entropy]
+**"无中生有，我们编译。在 1 与 0 之间，寻找对未来问题最优雅的解法。"**
 :::
 
-:::friend{name="Whono" url="https://github.com/cxro/astro-whono" avatar="author/avatar.webp"}
-一个极简的双栏 Astro 主题
-:::
+## Who am I / 关于我
 
+你好，我是 **Entropy**。
 
-## 常见问题
+一个半吊子 **[AI Agent开发 / 后端开发工程师 / 独立开发者 /测试开发工程师]**。我热衷于探索复杂系统的底层逻辑，享受在代码与逻辑中构建秩序的过程。
 
-:::faq{question="如何交换友链？"}
-可以通过 GitHub Issue 联系我或者 [发送邮件](mailto:你的邮箱@example.com?subject=交换友链申请&body=站点名称：%0A链接：%0A简介：%0A头像：)，请附上站点名称、链接、简介和头像。
+在比特世界之外，我试图通过文字和思考，在瞬息万变的信息洪流中抓住一些确定性。
 
-::site-info{name="Whono" url="https://astro.whono.me/" description="一个极简的双栏 Astro 主题" avatar="https://astro.whono.me/author/avatar.webp"}
-:::
+---
 
-:::faq{question="可以转载这里的内容吗？"}
-转载请注明出处；如果某篇文章单独标注了授权方式，以那篇文章的说明为准。
-:::
+## Why "Entropy" / 为什么是“熵”
 
-## 联系
+在物理与信息论中，**熵（Entropy）** 是系统无序程度的度量。香农（Shannon）将信息熵公式定义为：
 
-如果你有问题、建议，或想订阅更新，欢迎联系。
+$$ H(X) = -\sum_{i=1}^{n} P(x_i) \log_2 P(x_i) $$
 
-::contact-links
+在一个孤立系统中，熵总是增加的（即熵增定律），世界终将走向无序与混乱。
+
+我将这个博客命名为 **Entropy**，是因为我相信：
+* **写代码**：是将混乱的业务需求转化为有序的算法与架构，是在**对抗系统的熵增**；
+* **写文字**：是将碎片化的思绪整理成逻辑清晰的篇章，是在**对抗认知的熵增**。
+
+这里是我的数字温室，用于沉淀思考，过滤噪音，输出高信噪比的技术与观点。
+
+---
+
+## Toolbox / 技能与技术栈
+
+我日常打交道的技术与工具包括：
+
+* **Languages:** `Go` / `Rust` / `TypeScript` / `Python`
+* **VibeCoding tools:** `Claude Code` / `Codex` / `Codex CLI` / `Gemini`
+* **Infrastructure:** `Docker` / `Mysql` / `PostgreSQL`
+* **Interests:** 系统架构设计 / 编译原理 / 分布式系统
+
+---
+
+## Focus / 目前关注
+
+- [ ] 深入研究 [AI Agent / RAG知识增强]
+- [ ] 构建一个 [全链路溯源Agent平台]
+- [ ] 保持阅读，降低自身的信息熵
+
+---
+
+## Connect / 联络
+
+如果你对我的项目感兴趣，或者想探讨任何关于系统、逻辑与哲学的问题，欢迎随时联系：
+
+* **GitHub:** [[2218164692](https://github.com/2218164692)]
+* **Email:** [[dev@577415.xyz](mailto:dev@577415.xyz)]
+
+---
+
+`0x00_EOF` (感谢阅读至此。)

@@ -1,20 +1,20 @@
 {
-  "title": "Astro Themes by Whono",
-  "description": "一个 Astro 主题的展示站：轻量、可维护、可复用。",
+  "title": "Entropy | 个人技术博客",
+  "description": "Entropy 专注于软件工程、系统架构与技术哲学的深度思考。在这里，通过代码与文字对抗信息熵增，探寻逻辑与技术的本质",
   "defaultLocale": "zh-CN",
   "footer": {
-    "startYear": 2025,
+    "startYear": 2022,
     "showCurrentYear": true,
-    "copyright": "Whono · Theme Demo · by cxro"
+    "copyright": "· by Entropy"
   },
   "adminOverview": {
     "publicVisible": true,
     "hiddenMessage": "作者暂未公开此页面。"
   },
   "socialLinks": {
-    "github": "https://github.com/cxro/astro-whono",
-    "x": "https://twitter.com/yourname",
-    "email": "Astro@Whono.me",
+    "github": "https://github.com/2218164692",
+    "x": "https://twitter.com/",
+    "email": "dev@577415.xyz",
     "presetOrder": {
       "github": 1,
       "x": 2,

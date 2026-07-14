@@ -8,16 +8,16 @@
     "subtitle": null
   },
   "bits": {
-    "title": "絮语",
-    "subtitle": "生活不只是长篇",
+    "title": "灵感",
+    "subtitle": "记录我的天马行空",
     "defaultAuthor": {
-      "name": "Whono",
-      "avatar": "author/avatar.webp"
+      "name": "Entropy",
+      "avatar": "author/Heckert_GNU_white.svg"
     }
   },
   "memo": {
-    "title": null,
-    "subtitle": null
+    "title": "疑问",
+    "subtitle": "总会解决的"
   },
   "about": {
     "title": "关于",

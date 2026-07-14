@@ -27,6 +27,6 @@ Thumbs.db
 # Misc
 *.tsbuildinfo
 .trash/
-
+AGENTS.md
 # Font sources (local only)
 tools/fonts-src/

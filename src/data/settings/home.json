@@ -1,13 +1,13 @@
 {
-  "introLead": "这是一个开源写作主题与示例内容库:包含 随笔/essay、小记/memo、归档/archive 与 絮语/bits，使用与配置请见 README 。",
-  "introMore": "更多文章请访问",
+  "introLead": "专注技术本质，记录工程实践。这里是我在计算机科学与逻辑推演中的个人索引，包含对复杂问题的剖析、读书笔记以及技术碎片的沉淀。",
+  "introMore": "按时间或主题检索：",
   "introMoreLinks": [
-    "archive",
-    "tag"
+    "tag",
+    "archive"
   ],
   "showIntroLead": true,
   "showIntroMore": true,
   "heroPresetId": "default",
-  "heroImageSrc": null,
+  "heroImageSrc": "/images/archive/demo-archive-02.webp",
   "heroImageAlt": "Whono theme preview"
 }
